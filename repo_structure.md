@@ -8,7 +8,6 @@ PersonalGuidanceProgram_AnchalSharma/
 │   ├── week1_notes.md
 │   ├── week2_notes.md
 │   └── ...
-
 │
 └── assignments/            # All assignments grouped by week
     ├── week1/
