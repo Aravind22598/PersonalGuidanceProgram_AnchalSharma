@@ -5,7 +5,7 @@
 - Need to complete -
 -  1.ACID properties
 - 2.Basics of OOPS
-- 
+- complete kunal playlist videos from 37 to 47
 
 ## Week 1
 - ⏳ Pending
