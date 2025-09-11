@@ -10,6 +10,7 @@
 ## Week 1
 - ⏳ Pending
 - Given 17 questions
-- completed around 12 questions .....need to complete remaining
-- Need to watch a TimeComplexity video
-- Need to watch the playlist of striver which explains different  optimized methods for finding primes or number of primes
+- completed around 15 questions .....need to complete remaining
+- watched  TimeComplexity video
+- Striver playlist: more 3 videos left for listening
+- learned sieve of erathosthenes algorithm
