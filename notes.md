@@ -8,3 +8,4 @@ Solved basic problems at WorkAtTech
 - Key learnings:
   - Learnt basics of math like primes,gcd and lcm and how to solve them in efficient way
   - Importance of time complexity analysis
+  - Learnt Sieve of Erathosthenes Algorithm from striver
