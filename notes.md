@@ -33,4 +33,4 @@ Data Structures & Algorithms (DSA) , PL, FRAMEWORK, Computer Fundamentals, Datab
 - Notes images:
    ![WhatsApp Image 2025-09-17 at 23 00 09_a9a92bbf](https://github.com/user-attachments/assets/47dd982e-10b6-4521-859d-6acd4ffc04d0)
    ![WhatsApp Image 2025-09-17 at 23 00 10_6bfd7427](https://github.com/user-attachments/assets/ea2d85ee-e0a9-4346-8aa3-fa1245ece4d4)
-
+Chatgpt link :(usage of keywords for about section) :https://chatgpt.com/share/68cae4f7-4dc4-8010-a45a-d361535b6902
